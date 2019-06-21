@@ -1,0 +1,3 @@
+Jest to plik tworzony na potrzeby kursu Analityk danych.
+
+Zmiana
